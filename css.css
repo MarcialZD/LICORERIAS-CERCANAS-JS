@@ -1,0 +1,17 @@
+  /* Estilo para el mapa */
+  #map {
+	height: 500px; /* Altura del mapa */
+}
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	font-family: Arial, sans-serif;
+}
+.controls {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.liquor-store-list {
+	margin-top: 20px;
+}
